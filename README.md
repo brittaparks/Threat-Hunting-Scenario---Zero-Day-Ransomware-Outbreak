@@ -1,0 +1,1 @@
+# Threat-Hunting-Scenario---Zero-Day-Ransomware-Outbreak
